@@ -7,5 +7,5 @@ class Animal():
     def runs(self):
         print("Running started")
 
-dog = Animal(4)
-dog.runs() 
+animal = Animal(4)
+animal.runs() 

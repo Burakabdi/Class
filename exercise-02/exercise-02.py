@@ -14,7 +14,7 @@ class Animal():
         return self.number_of_legs
 
 
-dog = Animal(4)
-dog.count_legs()
-print(dog.return_legs())
-print(dog.number_of_legs)
+animal = Animal(4)
+animal.count_legs()
+print(animal.return_legs())
+print(animal.number_of_legs)
